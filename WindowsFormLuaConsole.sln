@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormLuaConsole", "WindowsFormLuaConsole\WindowsFormLuaConsole.csproj", "{2B45B4B8-5852-4FBF-97F2-3B3CB01089D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuaConsole", "WindowsFormLuaConsole\LuaConsole.csproj", "{2B45B4B8-5852-4FBF-97F2-3B3CB01089D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
